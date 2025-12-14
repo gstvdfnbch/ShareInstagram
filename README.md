@@ -3,7 +3,9 @@
 Este projeto demonstra como realizar **compartilhamento para Instagram Stories de forma nativa no iOS**, sem SDKs externos, utilizando apenas APIs do sistema (`UIKit`) e o **Facebook App ID**.
 
 https://github.com/creme-tech/creme-sharing
+
 https://developers.facebook.com/docs/instagram-platform/sharing-to-stories
+
 https://pub.dev/packages/appinio_social_share
 
 ---
